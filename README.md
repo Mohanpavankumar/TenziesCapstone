@@ -2,7 +2,7 @@
 
 A fun and interactive dice game built using React! The goal is to roll until all dice show the same value. You can "hold" dice between rolls to lock their value.
 
-![OutputScreenshot](./TenziesCapstone/src/assets/Output_Screenshot.png)
+![OutputScreenshot](src/assets/Output_Screenshot.png)
 
 ---
 
